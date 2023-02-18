@@ -1,11 +1,29 @@
 ---
 layout: default
-title: "Lorem Ipsum"
+title: "Hello, World"
 tags: tag1 tag2 tag3 tag4
 ---
 
-## Lorem Ipsum
+## Welcome
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit quis sapien. Ut congue pharetra rhoncus. Praesent finibus vitae urna quis cursus. Proin mollis elementum sapien, vitae viverra magna tincidunt a. Nullam tincidunt interdum dui ut ultricies. Maecenas pellentesque tellus ac mauris faucibus elementum. Nulla quis risus aliquam, pharetra neque non, dapibus augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras ullamcorper lacinia augue in placerat. Suspendisse lacinia massa id blandit varius. Mauris ultricies ultricies bibendum.  
+**Hello.**
 
-Mauris eu lectus fermentum leo dictum hendrerit. Maecenas vel leo sit amet quam laoreet consequat vitae nec eros. Curabitur eleifend eu orci quis consectetur. Sed pretium tortor at consequat tincidunt. Nullam a tellus faucibus, dapibus tortor eget, ullamcorper metus. Aenean at aliquet metus. Aenean molestie metus rutrum, tincidunt nulla quis, tincidunt lorem. Morbi diam sem, rutrum vitae convallis eget, dignissim semper lacus. Curabitur ipsum diam, tincidunt in hendrerit sit amet, luctus vitae dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+'print("Hello World")'
+
+This is a blog.
+This is the paranormal being known as Patrick.  
+I like the smell of samuel pepeys cheese  
+and i have tasted prime hydraidtiom  
+**I AM THE BEST**.
+Noahz turn
+
+Welcome to a blog.  
+Cogito ergo sum.
+
+Windows 95 is a consumer-oriented operating system developed by Microsoft as part of its Windows 9x family of operating systems. The first operating system in the 9x family, it is the successor to Windows 3.1x, and was released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995, almost three months after the release of Windows NT 3.51.
+
+Now.  
+
+Patrick's turn. 
+
+[shoutout](funkywood.github.io) to my friend Noah is selling websites.
